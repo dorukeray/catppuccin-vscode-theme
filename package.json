@@ -2,7 +2,7 @@
   "name": "catppuccin-theme",
   "displayName": "Catppuccin VSCode Theme",
   "description": "Soothing pastel theme",
-  "version": "0.3.1",
+  "version": "0.1.0",
   "publisher": "dorkodu",
   "license": "MIT",
   "repository": {
@@ -19,7 +19,6 @@
     "Themes"
   ],
   "keywords": [
-    "icon-theme",
     "theme",
     "catppuccin"
   ],
@@ -106,13 +105,6 @@
         "label": "Catppuccin Mocha Darker Bordered",
         "uiTheme": "vs-dark",
         "path": "./catppuccin-mocha-darker-bordered.json"
-      }
-    ],
-    "iconThemes": [
-      {
-        "id": "ayu",
-        "label": "Ayu",
-        "path": "./ayu-icons.json"
       }
     ]
   },
