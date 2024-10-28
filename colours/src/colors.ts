@@ -1,9 +1,8 @@
-import color, { Color } from './color'
-import { variants } from '@catppuccin/palette'
+import { variants } from '@catppuccin/palette';
+import color, { Color } from './color';
 
-export { variants } from '@catppuccin/palette'
-export * as color from './color'
-export { Color, alphaBlend } from './color';
+export { variants } from '@catppuccin/palette';
+export * as color from './color';
 
 export const latte = generateTheme('latte');
 export const frappe = generateTheme('frappe');
@@ -83,8 +82,8 @@ export function generateTheme(name: 'latte' | 'frappe' | 'macchiato' | 'mocha', 
   return {
     syntax: {
       tag: e(variants[name].sky.hex),
-      func: e(variants[name].yellow.hex),
-      entity: e(variants[name].blue.hex),
+      func: e(variants[name].blue.hex),
+      entity: e(variants[name].yellow.hex),
       string: e(variants[name].green.hex),
       regexp: e(variants[name].teal.hex),
       markup: e(variants[name].red.hex),

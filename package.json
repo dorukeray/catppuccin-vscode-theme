@@ -1,16 +1,16 @@
 {
   "name": "catppuccin-theme",
-  "displayName": "Catppuccin vscode theme",
+  "displayName": "Catppuccin VSCode Theme",
   "description": "Soothing pastel theme",
   "version": "0.3.1",
-  "publisher": "Siris01",
+  "publisher": "dorkodu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Siris01/catppuccin-vscode-theme"
+    "url": "https://github.com/dorukeray/catppuccin-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/Siris01/catppuccin-vscode-theme/issue"
+    "url": "https://github.com/dorukeray/catppuccin-vscode-theme/issue"
   },
   "engines": {
     "vscode": "^1.13.0"
@@ -23,7 +23,7 @@
     "theme",
     "catppuccin"
   ],
-  "homepage": "https://github.com/Siris01/catppuccin-vscode-theme",
+  "homepage": "https://github.com/dorukeray/catppuccin-vscode-theme",
   "icon": "assets/logo.png",
   "contributes": {
     "themes": [
@@ -95,7 +95,7 @@
       {
         "label": "Catppuccin Frappe Darker Bordered",
         "uiTheme": "vs-dark",
-        "path": "./catppuccin-frappe-darker-bordered.json"
+        "path": "./catppuccin-frappe-dbluearker-bordered.json"
       },
       {
         "label": "Catppuccin Macchiato Darker Bordered",
@@ -127,5 +127,6 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2",
     "vsce": "^1.96.1"
-  }
+  },
+  "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee"
 }

@@ -33,7 +33,7 @@
 		"inputValidation.infoBackground": "#010101",
 		"inputValidation.infoBorder": "#91d7e3",
 		"inputValidation.warningBackground": "#010101",
-		"inputValidation.warningBorder": "#eed49f",
+		"inputValidation.warningBorder": "#8aadf4",
 		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.background": "#c6a0f666",
 		"scrollbarSlider.hoverBackground": "#c6a0f699",
@@ -216,16 +216,16 @@
 		"terminal.ansiBlack": "#181926",
 		"terminal.ansiRed": "#e88291",
 		"terminal.ansiGreen": "#a6da95",
-		"terminal.ansiYellow": "#e9cf9a",
-		"terminal.ansiBlue": "#85a8ef",
+		"terminal.ansiYellow": "#85a8ef",
+		"terminal.ansiBlue": "#e9cf9a",
 		"terminal.ansiMagenta": "#c19bf1",
 		"terminal.ansiCyan": "#86d0c5",
 		"terminal.ansiWhite": "#c7c7c7",
 		"terminal.ansiBrightBlack": "#686868",
 		"terminal.ansiBrightRed": "#ed8796",
 		"terminal.ansiBrightGreen": "#a6da95",
-		"terminal.ansiBrightYellow": "#eed49f",
-		"terminal.ansiBrightBlue": "#8aadf4",
+		"terminal.ansiBrightYellow": "#8aadf4",
+		"terminal.ansiBrightBlue": "#eed49f",
 		"terminal.ansiBrightMagenta": "#c6a0f6",
 		"terminal.ansiBrightCyan": "#8bd5ca",
 		"terminal.ansiBrightWhite": "#ffffff"
@@ -405,7 +405,7 @@
 				"source.c storage.type"
 			],
 			"settings": {
-				"foreground": "#8aadf4"
+				"foreground": "#eed49f"
 			}
 		},
 		{
@@ -441,7 +441,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#eed49f"
+				"foreground": "#8aadf4"
 			}
 		},
 		{
@@ -463,7 +463,7 @@
 				"support.function.go"
 			],
 			"settings": {
-				"foreground": "#eed49f"
+				"foreground": "#8aadf4"
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#8aadf4"
+				"foreground": "#eed49f"
 			}
 		},
 		{
@@ -511,7 +511,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#8aadf4"
+				"foreground": "#eed49f"
 			}
 		},
 		{
@@ -531,7 +531,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#eed49f"
+				"foreground": "#8aadf4"
 			}
 		},
 		{
@@ -591,7 +591,7 @@
 				"source.ruby variable.other.readwrite"
 			],
 			"settings": {
-				"foreground": "#eed49f"
+				"foreground": "#8aadf4"
 			}
 		},
 		{
@@ -604,7 +604,7 @@
 				"source.stylus entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#8aadf4"
+				"foreground": "#eed49f"
 			}
 		},
 		{
@@ -761,7 +761,7 @@
 				"markup.list punctuation.definition.list.begin"
 			],
 			"settings": {
-				"foreground": "#eed49f"
+				"foreground": "#8aadf4"
 			}
 		},
 		{
